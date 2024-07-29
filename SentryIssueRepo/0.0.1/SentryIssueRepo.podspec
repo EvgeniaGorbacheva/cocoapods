@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.swift_version     = "5.0"
 
   s.dependencies      = {
-                        "Sentry" => "= 8.23.0"
+                        "Sentry" => "= 8.32.0"
                        }
 
   s.pod_target_xcconfig = {
